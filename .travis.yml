@@ -17,4 +17,4 @@ after_success:
   - docker push harryyy27/multi-client
   - docker push harryyy27/multi-nginx
   - docker push harryyy27/multi-server
-  - docker push harryyy27/multi-worker
+  - docker push harryyy27/multi-worker 
